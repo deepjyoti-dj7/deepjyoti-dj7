@@ -152,11 +152,11 @@
   </a>
 </p>
 
-<h3>✍️ Explore about System Design and DSA:</h3>
+<h2>✍️ Explore</h2>
 
 <p>
   <a href="https://deepjyoti-dj7.github.io/JustDoIT/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore-System%20Design%20%26%20DSA-1f6feb?style=flat-square&logo=readthedocs" />
+    <img src="https://img.shields.io/badge/System%20Design%20%26%20DSA-ff4d6d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
