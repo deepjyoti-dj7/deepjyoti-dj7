@@ -152,7 +152,7 @@
   </a>
 </p>
 
-<h2>✍️ Explore</h2>
+<h1>✍️ Explore</h1>
 
 <p>
   <a href="https://deepjyoti-dj7.github.io/JustDoIT/" target="_blank">
