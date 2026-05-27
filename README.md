@@ -156,7 +156,7 @@
 
 <p>
   <a href="https://deepjyoti-dj7.github.io/JustDoIT/" target="_blank">
-    <img src="https://img.shields.io/badge/System%20Design%20%26%20DSA-Explore%20Now-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Explore-System%20Design%20%26%20DSA-1f6feb?style=flat-square&logo=readthedocs" />
   </a>
 </p>
 
