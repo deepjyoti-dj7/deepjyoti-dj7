@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a full stack software engineer passionate about system design and scalable distributed systems.
 
-### ✍️ Want to learn about System Design and DSA?
-Check this out -> https://deepjyoti-dj7.github.io/JustDoIT/
+## ✍️ Explore about System Design and DSA:
+https://deepjyoti-dj7.github.io/JustDoIT/
 
 
 ## 🌐 Socials:
